@@ -1,0 +1,1 @@
+Just cloned a repository from Github to desktop
